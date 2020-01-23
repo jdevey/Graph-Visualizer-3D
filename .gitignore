@@ -1,0 +1,7 @@
+*.class
+*.json
+workspace.xml
+build/
+scratch/*
+*.lock
+*.bin
